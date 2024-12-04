@@ -3,9 +3,4 @@
 
 Changed from Github Website
 
-conflict intelliJ
-
 Conflict github
-
-¨This line is also added from
-IntelliJ¨
