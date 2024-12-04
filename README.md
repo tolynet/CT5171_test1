@@ -2,3 +2,5 @@
 ¨Changed in IntelliJ¨
 
 Changed from Github Website
+
+Conflict github
